@@ -34,5 +34,5 @@ cd Mini-GPT-from-Scratch
 # Open minorGPT.ipynb in Jupyter / VS Code
 ```
 
-🔍 What I Learned
+### 🔍 What I Learned
 This project gave me intimate knowledge of how GPT models actually work under the hood — knowledge I now apply in production fine-tuning and research work.
